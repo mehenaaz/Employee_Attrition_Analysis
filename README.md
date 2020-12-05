@@ -26,7 +26,7 @@
 
 **Solutions description:** 
 
-![Picture1](.\img\Picture1.png)
+![Picture1](./img/Picture1.png)
 
 Here we can interpret the reasons why employees had left the company:
 
